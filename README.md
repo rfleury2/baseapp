@@ -13,6 +13,7 @@ Here are the implementations details:
 - rspec
 - shoulda_matchers
 - factory_girl
+- faker
 
 ##### Other
 - 12_factor for Heroku deployment
