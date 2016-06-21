@@ -15,6 +15,9 @@ Here are the implementations details:
 - factory_girl
 - faker
 
+##### Authentication
+- Devise
+
 ##### Other
 - 12_factor for Heroku deployment
 - pry
