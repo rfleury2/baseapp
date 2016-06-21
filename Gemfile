@@ -50,3 +50,6 @@ group :development do
   gem 'letter_opener_web', '~> 1.2.0'
 end
 
+group :test do
+  gem 'shoulda-matchers', '~> 3.1'
+end
